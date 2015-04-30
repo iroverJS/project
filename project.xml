@@ -22,8 +22,5 @@
     <statement name="ELSE">
       <block type="movement_stop" id="120"></block>
     </statement>
-    <next>
-      <block type="movement_stop" id="167"></block>
-    </next>
   </block>
 </xml>
